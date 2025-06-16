@@ -2,6 +2,7 @@
   "name": "happy-birthday",
   "version": "1.0.0",
   "description": "An app that let's you say happy birthday to your friend in a nerdy way.",
+  "main": "index.html",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jsrockstaranks/happy-birthday"
